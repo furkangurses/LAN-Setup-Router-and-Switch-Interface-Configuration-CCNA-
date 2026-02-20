@@ -1,4 +1,4 @@
-![Topology Diagram]()
+![Topology Diagram](https://github.com/furkangurses/LAN-Setup-Router-and-Switch-Interface-Configuration-CCNA-/blob/main/45.PNG?raw=true)
 
 🎯 Lab Objective
 
